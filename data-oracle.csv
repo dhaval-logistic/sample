@@ -1,6 +1,6 @@
 id,parentId,name,lastName,position,image,email,phone_number,hire_date,job_id,salary,commission_pct,department_id,job_min_salary,location_state,job_max_salary,department_name,department_location_id,department_location_street_address,department_location_postal_code,department_location_country_id,department_location_country_name,department_location_country_region_id,department_location_country_region_name
 100,,,,WAL,https://raw.githubusercontent.com/dhaval-logistic/sample/main/logo.png,,,,,,,,,,,,,,,,,,
-101,100,Annie,Stanley,Admin,https://raw.githubusercontent.com/dhaval-logistic/sample/main/logo.png,,,,,,,,,,,,,,,,,,
+101,100,Annie,Stanley,Admin,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-7.png,,,,,,,,,,,,,,,,,,
 102,101,Isobel,Fuller,Manager,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar.png,isobel@walhq.com,,,,,,,,,,,,,,,,,
 103,101,Ethan,Valdez,Manager,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-1.png,ethan@walhq.com,,,,,,,,,,,,,,,,,
 104,101,Jackson,Reed,Manager,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-2.png,jackalew23@walhq.com,,,,,,,,,,,,,,,,,
@@ -10,7 +10,7 @@ id,parentId,name,lastName,position,image,email,phone_number,hire_date,job_id,sal
 108,105,Sally,Mason,User,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-3.png,sally@walhq.com,,,,,,,,,,,,,,,,,
 109,105,Amanda,Carr,Manger,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-4.png, ,,,,,,,,,,,,,,,,,
 110,105,Bec,Ferguson,User,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-5.png,bec@walhq.com,,,,,,,,,,,,,,,,,
-111,107,Courtney,Turner,User,https://raw.githubusercontent.com/dhaval-logistic/sample/main/logo.png,Courteny@walhq.com,,,,,,,,,,,,,,,,,
+111,107,Courtney,Turner,User,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-8.png,Courteny@walhq.com,,,,,,,,,,,,,,,,,
 112,107,Megan,Sims,Manager,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-6.png,sims@walhq.com,,,,,,,,,,,,,,,,,
 113,109,,,Aman Carr,https://raw.githubusercontent.com/dhaval-logistic/sample/main/logo.png,,,,,,,,,,,,,,,,,,
 114,112,,,Team Megan,https://raw.githubusercontent.com/dhaval-logistic/sample/main/logo.png,,,,,,,,,,,,,,,,,,
