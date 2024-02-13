@@ -6,7 +6,7 @@ id,parentId,name,lastName,position,image,email,phone_number,hire_date,job_id,sal
 104,101,Jackson,Reed,Manager,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,jackalew23@walhq.com,,,,,,,,,,,,,,,,,
 105,102,,,House Team,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,,,,,,,,,,,,,,,,,,
 106,102,,,Jorden Team,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,,,,,,,,,,,,,,,,,,
-107, ,,,Team Lucas,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,,,,,,,,,,,,,,,,,,
+107,103,,,Team Lucas,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,,,,,,,,,,,,,,,,,,
 108,105,Sally,Mason,User,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,sally@walhq.com,,,,,,,,,,,,,,,,,
 109,105,Amanda,Carr,Manger,https://bumbeishvili.github.io/avatars/avatars/portrait12.png, ,,,,,,,,,,,,,,,,,
 110,105,Bec,Ferguson,User,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,bec@walhq.com,,,,,,,,,,,,,,,,,
