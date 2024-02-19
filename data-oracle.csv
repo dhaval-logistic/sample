@@ -12,5 +12,6 @@ id,parentId,name,lastName,position,image,email,phone_number,hire_date,job_id,sal
 110,105,Bec,Ferguson,User,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-5.png,bec@walhq.com,,,,,,,,,,,,,,,,,
 111,107,Courtney,Turner,User,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-8.png,Courteny@walhq.com,,,,,,,,,,,,,,,,,
 112,107,Megan,Sims,Manager,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-6.png,sims@walhq.com,,,,,,,,,,,,,,,,,
-113,109,,,Team Aman,https://raw.githubusercontent.com/dhaval-logistic/sample/main/c-4.png,,,,,,,,,,,,,,,,,,
-114,112,,,Team Megan,https://raw.githubusercontent.com/dhaval-logistic/sample/main/c-2.png,,,,,,,,,,,,,,,,,,
+113,107,Lucas,Belido,Manager,https://raw.githubusercontent.com/dhaval-logistic/sample/main/Avatar-7.png,lucas@walhq.com,,,,,,,,,,,,,,,,,
+114,109,,,Team Aman,https://raw.githubusercontent.com/dhaval-logistic/sample/main/c-4.png,,,,,,,,,,,,,,,,,,
+115,112,,,Team Megan,https://raw.githubusercontent.com/dhaval-logistic/sample/main/c-2.png,,,,,,,,,,,,,,,,,,
